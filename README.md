@@ -23,7 +23,7 @@ Blinkit operates in a highly competitive quick-commerce market where understandi
 
 ## 📊 Dashboard Preview
 
-![Blinkit Dashboard](./Screenshot%202026-04-03%20142941.png)
+![Blinkit Dashboard][./Screenshot%202026-04-03%20142941.png](https://github.com/RupeshRawat009/Blinkit-Sales-Analytics-Dashboard/blob/main/Blinkit_Dashboard.png]
 
 > 📌 This dashboard highlights KPIs like Total Sales, Avg Sales, Item Count, Ratings, and outlet-level performance.
 
